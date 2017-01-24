@@ -4,13 +4,16 @@
 
 ## Gallery
 
+![](https://raw.githubusercontent.com/kindingerlek/drownAllThem/master/Gallery/screenshot-2.png)
+![](https://raw.githubusercontent.com/kindingerlek/drownAllThem/master/Gallery/screenshot-1.png)
 ## About the Development
+This game was created in Global Game Jam 2017. The development took 48 hours, many pizzas slices, and much coffee.
 
 ## Authors
 - [Alisson Krul](https://github.com/alissonkrul)
 - [Lucas Ernesto Kindinger](https://github.com/kindingerlek)
-- [Lucas Lemke]()
-- [Rafael Bruno]()
+- [Lucas Lemke](https://github.com/lls08)
+- [Rafael Bruno](https://github.com/RafaelBruno)
 
 ## Installation
 To run the builds, no installation is needed. Just download, open the builds folder and run .exe application.
